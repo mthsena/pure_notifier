@@ -1,0 +1,16 @@
+name: pure_notifier
+description: A simple and pure state management for Flutter.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.0.2
+  flutter: ^3.10.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
